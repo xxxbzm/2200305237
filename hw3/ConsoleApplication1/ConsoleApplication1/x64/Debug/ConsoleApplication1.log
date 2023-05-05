@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\bzm\Desktop\ds\homework\hw3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\bzm\Desktop\ds\homework\hw3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,37): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\bzm\Desktop\ds\homework\hw3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(171,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\bzm\Desktop\ds\homework\hw3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
