@@ -1,0 +1,4 @@
+﻿  sort.cpp
+C:\Users\bzm\Desktop\ds\homework\hw4 5\sort\sort\sort.cpp(160,45): warning C4101: “arr5”: 未引用的局部变量
+C:\Users\bzm\Desktop\ds\homework\hw4 5\sort\sort\sort.cpp(160,36): warning C4101: “arr4”: 未引用的局部变量
+  sort.vcxproj -> C:\Users\bzm\Desktop\ds\homework\hw4 5\sort\x64\Debug\sort.exe
